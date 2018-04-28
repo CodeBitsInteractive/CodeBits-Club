@@ -1,0 +1,7 @@
+D:\Store\Visual Studio\CodeBits Launcher\CodeBits Laucner\CDBitsClub\bin\Release\CDBitsClub.dll
+D:\Store\Visual Studio\CodeBits Launcher\CodeBits Laucner\CDBitsClub\bin\Release\CDBitsClub.pdb
+D:\Store\Visual Studio\CodeBits Launcher\CodeBits Laucner\CDBitsClub\bin\Release\Newtonsoft.Json.dll
+D:\Store\Visual Studio\CodeBits Launcher\CodeBits Laucner\CDBitsClub\bin\Release\Newtonsoft.Json.xml
+D:\Store\Visual Studio\CodeBits Launcher\CodeBits Laucner\CDBitsClub\obj\Release\CDBitsClub.csproj.CoreCompileInputs.cache
+D:\Store\Visual Studio\CodeBits Launcher\CodeBits Laucner\CDBitsClub\obj\Release\CDBitsClub.dll
+D:\Store\Visual Studio\CodeBits Launcher\CodeBits Laucner\CDBitsClub\obj\Release\CDBitsClub.pdb
